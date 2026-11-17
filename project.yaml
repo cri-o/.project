@@ -27,7 +27,7 @@ repositories: # TODO: AUTO-DETECTED primary — please verify
 
 website: "https://cri-o.io/"
 
-artwork: "https://landscape.cncf.io/logos/cri-o.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/crio"
 
 adopters:
   path: "https://github.com/cri-o/cri-o/blob/main/ADOPTERS.md"
